@@ -1,0 +1,80 @@
+body{
+    background-color: grey;
+}
+
+table{
+    text-align: center;
+    border-collapse: collapse;
+    cursor: crosshair;
+}
+
+th{
+    background-color: blue;
+    border: solid black;
+    width: 1%;
+    font-size: 20px;
+    color: white;
+}
+
+td{
+    border: 3px solid grey;
+    font-size: 20px;
+}
+
+h1{
+    display:inline-block;
+}
+
+caption{
+    text-align: center;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+
+.BBDD{
+    background-color: darkgoldenrod;
+}
+
+.FOL{
+    background-color: darkgreen;
+}
+
+.SSII{
+    background-color: deepskyblue;
+}
+
+.LMSI{
+    background-color: hotpink;
+}
+
+.CD{
+    background-color: bisque;
+}
+
+.Prog{
+    background-color: mediumorchid;
+}
+
+#Rec{
+    background-color: brown;
+    font-size: 30px;
+    color: white;
+    letter-spacing: 16px;
+}
+
+#spe{
+    background-color: gray;
+    border: solid darkgrey;
+}
+
+p{
+    text-align: right;
+    display:block;
+}
+
+#titulo{
+    color: white;
+}
+
+#DAM{
+    color: red;
+}
